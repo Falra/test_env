@@ -232,8 +232,8 @@
 			<Metadata name="InformationRegister.КачествоПроектнойДеятельности.Dimension.КатегорияПроцесса" id="894e9c6f-0519-4e8b-8e8f-1bc6215b03db"/>
 		</Metadata>
 		<Metadata name="Language.Русский" id="d5cf372e-2a56-11e6-a99d-0242ac110009" configVersion="4441b54833a45449b6740f4c663e9a5d00000000"/>
-		<Metadata name="Role.ПолныеПрава" id="8bfbc1c5-d73e-47f5-884b-56413728bdb6" configVersion="ea19d8f21f7dc942b4618176ae98232c00000000"/>
-		<Metadata name="Role.ПолныеПрава.Rights" id="8bfbc1c5-d73e-47f5-884b-56413728bdb6.0" configVersion="641a2558305a244c8991dc1d8ee82add00000000"/>
+		<Metadata name="Role.ПолныеПрава" id="8bfbc1c5-d73e-47f5-884b-56413728bdb6" configVersion="c2bf7866ad1cea46b2d78c6d0cb8288b00000000"/>
+		<Metadata name="Role.ПолныеПрава.Rights" id="8bfbc1c5-d73e-47f5-884b-56413728bdb6.0" configVersion="373d466bee7cbe48bb947ab9474041bd00000000"/>
 		<Metadata name="Role.ПравоЗапуска" id="8451c4e6-7e03-4d81-a711-a30800db6226" configVersion="006750fe08f167428244a48f0188e41d00000000"/>
 		<Metadata name="Role.ПравоЗапуска.Rights" id="8451c4e6-7e03-4d81-a711-a30800db6226.0" configVersion="c1715cb366e6ab4da0362cc01fc6401c00000000"/>
 		<Metadata name="Role.ПравоИнтеграции" id="74d430a8-8457-4f1d-aef2-81e0b3305419" configVersion="9dd704a059912b4f9dc64405c770bbcb00000000"/>
