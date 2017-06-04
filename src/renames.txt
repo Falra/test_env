@@ -1,4 +1,5 @@
-﻿Configuration.xml-->Configuration.xml
+﻿ConfigDumpInfo.xml-->ConfigDumpInfo.xml
+Configuration.xml-->Configuration.xml
 BusinessProcesses\ОценкаПроектаSAFE.xml-->BusinessProcesses\ОценкаПроектаSAFE.xml
 BusinessProcesses\ПланПроекта.xml-->BusinessProcesses\ПланПроекта.xml
 BusinessProcesses\РегламентИтерации.xml-->BusinessProcesses\РегламентИтерации.xml
