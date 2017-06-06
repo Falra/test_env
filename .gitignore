@@ -1,1 +1,20 @@
-distr
+#1C
+
+build/out
+build/ib
+
+out
+temp
+
+## Docker
+
+# Logs
+logs
+
+build/ib-copy/
+
+build/ibservice/
+
+build/update-1c\.cmd
+
+allure-report/
