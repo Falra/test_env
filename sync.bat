@@ -1,1 +1,1 @@
-gitsync export "D:\Programming\Warehouse1C\Agiler" src
+gitsync export "D:\Programming\Warehouse1C\Agiler" src/cf
