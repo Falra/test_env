@@ -92,10 +92,12 @@ CommonModules\ОбщегоНазначенияВызовСервера.xml-->Com
 CommonModules\ОбщегоНазначенияКлиент.xml-->CommonModules\ОбщегоНазначенияКлиент.xml
 CommonModules\ОбщегоНазначенияКлиентСервер.xml-->CommonModules\ОбщегоНазначенияКлиентСервер.xml
 CommonModules\ОбщегоНазначенияСервер.xml-->CommonModules\ОбщегоНазначенияСервер.xml
+CommonModules\ОбщегоНазначенияСервер1.xml-->CommonModules\ОбщегоНазначенияСервер1.xml
 CommonModules\ОбщегоНазначенияВызовСервера\Ext\Module.bsl-->CommonModules\ОбщегоНазначенияВызовСервера\Ext\Module.bsl
 CommonModules\ОбщегоНазначенияКлиент\Ext\Module.bsl-->CommonModules\ОбщегоНазначенияКлиент\Ext\Module.bsl
 CommonModules\ОбщегоНазначенияКлиентСервер\Ext\Module.bsl-->CommonModules\ОбщегоНазначенияКлиентСервер\Ext\Module.bsl
 CommonModules\ОбщегоНазначенияСервер\Ext\Module.bsl-->CommonModules\ОбщегоНазначенияСервер\Ext\Module.bsl
+CommonModules\ОбщегоНазначенияСервер1\Ext\Module.bsl-->CommonModules\ОбщегоНазначенияСервер1\Ext\Module.bsl
 CommonPictures\Исполнение.xml-->CommonPictures\Исполнение.xml
 CommonPictures\Контроль.xml-->CommonPictures\Контроль.xml
 CommonPictures\НСИ.xml-->CommonPictures\НСИ.xml
@@ -168,10 +170,12 @@ Roles\ПолныеПрава.xml-->Roles\ПолныеПрава.xml
 Roles\ПравоЗапуска.xml-->Roles\ПравоЗапуска.xml
 Roles\ПравоИнтеграции.xml-->Roles\ПравоИнтеграции.xml
 Roles\ПравоПланирования.xml-->Roles\ПравоПланирования.xml
+Roles\ПравоПланирования1.xml-->Roles\ПравоПланирования1.xml
 Roles\ПолныеПрава\Ext\Rights.xml-->Roles\ПолныеПрава\Ext\Rights.xml
 Roles\ПравоЗапуска\Ext\Rights.xml-->Roles\ПравоЗапуска\Ext\Rights.xml
 Roles\ПравоИнтеграции\Ext\Rights.xml-->Roles\ПравоИнтеграции\Ext\Rights.xml
 Roles\ПравоПланирования\Ext\Rights.xml-->Roles\ПравоПланирования\Ext\Rights.xml
+Roles\ПравоПланирования1\Ext\Rights.xml-->Roles\ПравоПланирования1\Ext\Rights.xml
 Subsystems\Интеграция.xml-->Subsystems\Интеграция.xml
 Subsystems\Исполнение.xml-->Subsystems\Исполнение.xml
 Subsystems\Контроль.xml-->Subsystems\Контроль.xml

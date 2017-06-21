@@ -1,3 +1,3 @@
 @rem call opm update vanessa-runner
 
-call vanessa-runner update-dev --src ./src/cf
+call vanessa-runner update-dev --src ./src/cf --db-user "admin"
