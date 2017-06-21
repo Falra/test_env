@@ -122,6 +122,8 @@
 		<Metadata name="CommonModule.ОбщегоНазначенияВызовСервера.Module" id="d1fe5c22-1565-45f8-af92-4a541d8c0a18.0" configVersion="335c34dbacdb134085eba9d1bcfcb98800000000"/>
 		<Metadata name="CommonModule.ОбщегоНазначенияКлиент" id="2646e717-4bbe-441a-8c8f-c62aa0e0361f" configVersion="5110491fd069134bb2def8fbab21026c00000000"/>
 		<Metadata name="CommonModule.ОбщегоНазначенияКлиент.Module" id="2646e717-4bbe-441a-8c8f-c62aa0e0361f.0" configVersion="65b618d96bde26418f590d66c33af32600000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначенияКлиент1" id="f495601e-4ac9-422b-9d5f-6aade874bce4" configVersion="658424a40218364a8b8a1d01ef991bce00000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначенияКлиент1.Module" id="f495601e-4ac9-422b-9d5f-6aade874bce4.0" configVersion="7492db9056c9c846b63dc66dfa67806700000000"/>
 		<Metadata name="CommonModule.ОбщегоНазначенияКлиентСервер" id="18a217a4-f14c-4f83-ac5a-9db475144b26" configVersion="c81ad78000f7a14fa8d667a6a796ecf800000000"/>
 		<Metadata name="CommonModule.ОбщегоНазначенияКлиентСервер.Module" id="18a217a4-f14c-4f83-ac5a-9db475144b26.0" configVersion="ffdbc5f2a520de41a2273aa7194906f800000000"/>
 		<Metadata name="CommonModule.ОбщегоНазначенияСервер" id="f8f8c0f3-e63e-42e4-a62c-bb04aef3b3d6" configVersion="9755640c82b063419aa12ecafdc239ba00000000"/>
@@ -138,7 +140,7 @@
 		<Metadata name="CommonPicture.Планирование.Picture" id="4c40db73-17e0-4bf0-932c-d9d7481782c8.0" configVersion="d9737be34cb448478f098c03f7e9345100000000"/>
 		<Metadata name="CommonPicture.Сервис" id="cc8f7713-0dc5-404f-b6db-2b3a6c6a6756" configVersion="7b6772139b01974ab3ce3ed9db899c5c00000000"/>
 		<Metadata name="CommonPicture.Сервис.Picture" id="cc8f7713-0dc5-404f-b6db-2b3a6c6a6756.0" configVersion="98944b9877472049b2794b66c5befc6b00000000"/>
-		<Metadata name="Configuration.Agiler" id="d5cf2ffe-2a56-11e6-a99d-0242ac110009" configVersion="a56d5013ffc77543a889d2b1fe330e8900000000"/>
+		<Metadata name="Configuration.Agiler" id="d5cf2ffe-2a56-11e6-a99d-0242ac110009" configVersion="ae3283831a9ac34992776aa013ab1bd600000000"/>
 		<Metadata name="Configuration.Agiler.ClientApplicationInterface" id="d5cf3012-2a56-11e6-a99d-0242ac110009.b" configVersion="512e048053525d45aa80bac4f8134f3700000000"/>
 		<Metadata name="Configuration.Agiler.Help" id="d5cf3012-2a56-11e6-a99d-0242ac110009.3" configVersion="dc5c07d8bd17d946bf473a08492ff82e00000000"/>
 		<Metadata name="Configuration.Agiler.HomePageWorkArea" id="d5cf3012-2a56-11e6-a99d-0242ac110009.8" configVersion="978ed8c1e5d2ae47bc01545fff416a5900000000"/>
@@ -238,6 +240,8 @@
 		<Metadata name="Role.ПравоЗапуска.Rights" id="8451c4e6-7e03-4d81-a711-a30800db6226.0" configVersion="c1715cb366e6ab4da0362cc01fc6401c00000000"/>
 		<Metadata name="Role.ПравоИнтеграции" id="74d430a8-8457-4f1d-aef2-81e0b3305419" configVersion="9dd704a059912b4f9dc64405c770bbcb00000000"/>
 		<Metadata name="Role.ПравоИнтеграции.Rights" id="74d430a8-8457-4f1d-aef2-81e0b3305419.0" configVersion="eac25f81a21f974ab85b8fc2e66541d400000000"/>
+		<Metadata name="Role.ПравоИнтеграции1" id="319e22ea-d4ae-4d69-b37b-d786ec61666c" configVersion="5891be499f8d794881b1b7fc33c5033200000000"/>
+		<Metadata name="Role.ПравоИнтеграции1.Rights" id="319e22ea-d4ae-4d69-b37b-d786ec61666c.0" configVersion="e7d4b72a804d914da713d6f83ee288e500000000"/>
 		<Metadata name="Role.ПравоПланирования" id="cc4106f9-ec2b-4bb0-a0b9-47b9b49914de" configVersion="540f79f870f5d1479b264c20dc73088e00000000"/>
 		<Metadata name="Role.ПравоПланирования.Rights" id="cc4106f9-ec2b-4bb0-a0b9-47b9b49914de.0" configVersion="e725cb6ea76e22448f5baf23a927744600000000"/>
 		<Metadata name="Subsystem.Интеграция" id="a15b4f43-85fd-4492-8e37-712dacbc1718" configVersion="6db74b1699c6aa4b8ce8035a14c8a5f900000000"/>
