@@ -139,20 +139,14 @@
 			<Role>ПравоЗапуска</Role>
 			<Role>ПравоПланирования</Role>
 			<Role>ПравоИнтеграции</Role>
-<<<<<<< HEAD
 			<Role>ПравоПланирования1</Role>
-=======
 			<Role>ПравоИнтеграции1</Role>
->>>>>>> 45e4d804020c331c27c2a51b08b06ef44fc58188
 			<CommonModule>ОбщегоНазначенияКлиент</CommonModule>
 			<CommonModule>ОбщегоНазначенияСервер</CommonModule>
 			<CommonModule>ОбщегоНазначенияКлиентСервер</CommonModule>
 			<CommonModule>ОбщегоНазначенияВызовСервера</CommonModule>
-<<<<<<< HEAD
 			<CommonModule>ОбщегоНазначенияСервер1</CommonModule>
-=======
 			<CommonModule>ОбщегоНазначенияКлиент1</CommonModule>
->>>>>>> 45e4d804020c331c27c2a51b08b06ef44fc58188
 			<CommonForm>ФормаКонстант</CommonForm>
 			<Catalog>Проекты</Catalog>
 			<Catalog>БизнесЦели</Catalog>
